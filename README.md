@@ -20,17 +20,13 @@
 
 ---
 
-<div style="text-align: center;">
-  <h3>Pipeline</h3>
-</div>
+### Pipeline
 
 ![](figs/Pipeline.png)
 
 ---
 
-<div style="text-align: center;">
-  <h3>Result</h3>
-</div>
+### Radar Chat
 
 ![](figs/Radar-Chat.png)
 
