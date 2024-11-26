@@ -22,7 +22,7 @@
 
 <h3>Result</h3>
 
-<img src="figs/Radar-Chat.png" style="zoom:60%;" />
+<img src="figs/Radar-Chat.png" style="zoom:50%;" />
 
 ---
 
@@ -66,6 +66,8 @@ We achieved state-of-the-art performance on synthetic and real-world blur datase
 
 <details>
 <summary>Qualitative Results (click to expand)</summary>
+
+
 
 
 - Results on GIQA-DES and GIQA-VQA
