@@ -9,7 +9,7 @@
 
 #### 🔥🔥🔥 News
 
-- **2024-11-27:** This repo is released: [Project](https://zhengchen1999.github.io/Grounding-IQA-Web/)
+- **2024-11-26:** This repo is released: [Project](https://zhengchen1999.github.io/Grounding-IQA-Web/)
 
 ---
 
