@@ -20,15 +20,19 @@
 
 ---
 
-<h3>Result</h3>
+<div style="text-align: center;">
+  <h3>Pipeline</h3>
+</div>
 
-![](figs/Radar-Chat.png)
+![](figs/Pipeline.png)
 
 ---
 
-<h3>Pipeline</h3>
+<div style="text-align: center;">
+  <h3>Result</h3>
+</div>
 
-![](figs/Pipeline.png)
+![](figs/Radar-Chat.png)
 
 ## 🔖 TODO
 
