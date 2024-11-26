@@ -22,7 +22,7 @@
 
 <h3>Result</h3>
 
-<img src="figs/Radar-Chat.png" style="zoom:18%;" />
+<img src="figs/Radar-Chat.png" style="zoom:10%;" />
 
 ---
 
