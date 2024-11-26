@@ -9,7 +9,7 @@
 
 #### 🔥🔥🔥 News
 
-- **2024-11-26:** This repo is released: [Project](https://zhengchen1999.github.io/Grounding-IQA-Web/)
+- **2024-11-27:** This repo is released: [Project](https://zhengchen1999.github.io/Grounding-IQA-Web/)
 
 ---
 
@@ -49,23 +49,24 @@
 
 ## <a name="datasets"></a>📦 Datasets
 
-![](https://live.staticflickr.com/65535/54165276613_3de84333c4_o.png)
+![](figs/Dataset.png)
 
 ## <a name="results"></a>🔎 Results
 
-We achieved state-of-the-art performance on synthetic and real-world blur dataset. Detailed results can be found in the paper.
+We achieve impressive performance on GIQA-DES and GIQA-VQA tasks.
 
-<details>
+<details open>
 <summary>Quantitative Results (click to expand)</summary>
+
 
 <p align="center">
   <img width="900" src="figs/Quantitative.png">
 </p>
-
 </details>
 
-<details>
+<details open>
 <summary>Qualitative Results (click to expand)</summary>
+
 
 
 
