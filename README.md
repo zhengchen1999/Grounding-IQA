@@ -68,36 +68,30 @@ We achieve impressive performance on GIQA-DES and GIQA-VQA tasks.
 <details open>
 <summary>Qualitative Results (click to expand)</summary>
 
+
+
+
+
 - Results on GIQA-DES and GIQA-VQA
 
 <p align="center">
   <img width="900" src="figs/Qualitative-1.png">
 </p>
 
+- More Results on GIQA-DES
 
-```markdown
-<details>
-    <summary>More Results on GIQA-DES</summary>
-    <p align="center">
-      <img width="900" src="figs/Qualitative-2.png">
-    </p>
-</details>
-```
+<p align="center">
+  <img width="900" src="figs/Qualitative-2.png">
+</p>
 
 
+- More Results on GIQA-VQA
 
-<details>
-    <summary>More Results on GIQA-VQA</summary>
-    <p align="center">
-      <img width="900" src="figs/Qualitative-3.png">
-    </p>
-</detls>
-
-
+<p align="center">
+  <img width="900" src="figs/Qualitative-3.png">
+</p>
 
 </details>
-
-
 
 ## <a name="citation"></a>📎 Citation
 
