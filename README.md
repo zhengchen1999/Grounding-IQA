@@ -73,6 +73,8 @@ We achieve impressive performance on GIQA-DES and GIQA-VQA tasks.
 <p align="center">
   <img width="900" src="figs/Qualitative-1.png">
 </p>
+
+
 ```markdown
 <details>
     <summary>More Results on GIQA-DES</summary>
@@ -82,6 +84,8 @@ We achieve impressive performance on GIQA-DES and GIQA-VQA tasks.
 </details>
 ```
 
+
+
 <details>
     <summary>More Results on GIQA-VQA</summary>
     <p align="center">
@@ -90,6 +94,8 @@ We achieve impressive performance on GIQA-DES and GIQA-VQA tasks.
 </detls>
 
 </details>
+
+
 
 ## <a name="citation"></a>📎 Citation
 
