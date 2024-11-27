@@ -3,7 +3,7 @@
 
 [Zheng Chen](https://zhengchen1999.github.io/), [Xun Zhang](https://scholar.google.com.hk/citations?hl=zh-CN&user=xCuW6LcAAAAJ), [Wenbo Li](https://fenglinglwb.github.io/), [Renjing Pei](https://orcid.org/0000-0001-7513-6576), [Fenglong Song](https://scholar.google.com/citations?hl=zh-CN&pli=1&user=WYDVk5oAAAAJ), [Xiongkuo Min](https://minxiongkuo.github.io/), [Xiaohong Liu](https://jhc.sjtu.edu.cn/~xiaohongliu/), [Xin Yuan](https://en.westlake.edu.cn/faculty/xin-yuan.html), [Yong Guo](https://www.guoyongcs.com/), and [Yulun Zhang](http://yulunzhang.com/), "Grounding-IQA: Multimodal Language Grounding Model for Image Quality Assessment", 2024
 
-[[project](https://zhengchen1999.github.io/Grounding-IQA-Web)] [[arXiv]()] [[supplementary material]()] [dataset] [pretrained models]
+[[project](https://zhengchen1999.github.io/Grounding-IQA-Web)] [[arXiv](https://arxiv.org/abs/2411.17237)] [[supplementary material]()] [dataset] [pretrained models]
 
 
 
@@ -34,6 +34,7 @@
 
 - [ ] Release testing and training code.
 - [ ] Release GIQA-160K and GIQA-Bench.
+- [ ] Release pre-trained models.
 - [ ] Provide WebUI.
 - [ ] Provide HuggingFace demo.
 
@@ -99,7 +100,7 @@ If you find the code helpful in your resarch or work, please cite the following 
 @article{chen2024grounding,
   title={Grounding-IQA: Multimodal Language Grounding Model for Image Quality Assessment},
   author={Chen, Zheng and Zhang, Xun and Li, Wenbo and Pei, Renjing and Song, Fenglong and Min, Xiongkuo and Liu, Xiaohong and Yuan, Xin and Guo, Yong and Zhang, Yulun},
-  journal={arXiv preprint arXiv:},
+  journal={arXiv preprint arXiv:2411.17237},
   year={2024}
 }
 ```
