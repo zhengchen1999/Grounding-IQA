@@ -3,7 +3,7 @@
 
 [Zheng Chen](https://zhengchen1999.github.io/), [Xun Zhang](https://scholar.google.com.hk/citations?hl=zh-CN&user=xCuW6LcAAAAJ), [Wenbo Li](https://fenglinglwb.github.io/), [Renjing Pei](https://orcid.org/0000-0001-7513-6576), [Fenglong Song](https://scholar.google.com/citations?hl=zh-CN&pli=1&user=WYDVk5oAAAAJ), [Xiongkuo Min](https://minxiongkuo.github.io/), [Xiaohong Liu](https://jhc.sjtu.edu.cn/~xiaohongliu/), [Xin Yuan](https://en.westlake.edu.cn/faculty/xin-yuan.html), [Yong Guo](https://www.guoyongcs.com/), and [Yulun Zhang](http://yulunzhang.com/), "Grounding-IQA: Multimodal Language Grounding Model for Image Quality Assessment", 2024
 
-[![download](https://live.staticflickr.com/65535/54169224846_6430d2fb64_o.jpg)](https://github.com/zhengchen1999/Grounding-IQA)
+[![download](https://live.staticflickr.com/65535/54169224846_6430d2fb64_o.jpg)](https://github.com/zhengchen1999/Grounding-IQA/releases)
 [![GitHub Stars](https://live.staticflickr.com/65535/54169225341_f1037c7bd1_o.jpg)](https://github.com/zhengchen1999/Grounding-IQA)
 
 [[project](https://zhengchen1999.github.io/Grounding-IQA-Web)] [[arXiv](https://arxiv.org/abs/2411.17237)] [[supplementary material]()] [dataset] [pretrained models]
