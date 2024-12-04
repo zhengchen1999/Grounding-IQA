@@ -3,6 +3,10 @@
 
 [Zheng Chen](https://zhengchen1999.github.io/), [Xun Zhang](https://scholar.google.com.hk/citations?hl=zh-CN&user=xCuW6LcAAAAJ), [Wenbo Li](https://fenglinglwb.github.io/), [Renjing Pei](https://orcid.org/0000-0001-7513-6576), [Fenglong Song](https://scholar.google.com/citations?hl=zh-CN&pli=1&user=WYDVk5oAAAAJ), [Xiongkuo Min](https://minxiongkuo.github.io/), [Xiaohong Liu](https://jhc.sjtu.edu.cn/~xiaohongliu/), [Xin Yuan](https://en.westlake.edu.cn/faculty/xin-yuan.html), [Yong Guo](https://www.guoyongcs.com/), and [Yulun Zhang](http://yulunzhang.com/), "Grounding-IQA: Multimodal Language Grounding Model for Image Quality Assessment", 2024
 
+![Visitor](https://komarev.com/ghpvc/?username=zhengchen1999&label=visitor&color=blue&style=flat)
+![Download](https://img.shields.io/github/downloads/zhengchen1999/Grounding-IQA/total?color=green&style=flat)
+[![GitHub Stars](https://img.shields.io/github/stars/zhengchen1999/Grounding-IQA?style=social)](https://github.com/zhengchen1999/Grounding-IQA/stargazers)
+
 [[project](https://zhengchen1999.github.io/Grounding-IQA-Web)] [[arXiv](https://arxiv.org/abs/2411.17237)] [[supplementary material](https://github.com/zhengchen1999/Grounding-IQA/releases/download/v1/Supplementary_Material.pdf)] [dataset] [pretrained models]
 
 
@@ -58,8 +62,8 @@ We achieve impressive performance on GIQA-DES and GIQA-VQA tasks.
 
 <details open>
 <summary>Quantitative Results (click to expand)</summary>
-- Results in Tab. 5 of the main paper
 
+- Results in Tab. 5 of the main paper
 
 <p align="center">
   <img width="900" src="figs/Quantitative.png">
@@ -74,10 +78,9 @@ We achieve impressive performance on GIQA-DES and GIQA-VQA tasks.
 <p align="center">
   <img width="900" src="figs/Qualitative-1.png">
 </p>
-
-<div style="margin-left: 20px;">
 <details>
-<summary>More Results</summary>
+<summary>More Qualitative Results</summary>
+
 
 - More Results on GIQA-DES (Fig. 6 of the supplementary material)
 
@@ -91,7 +94,6 @@ We achieve impressive performance on GIQA-DES and GIQA-VQA tasks.
   <img width="900" src="figs/Qualitative-3.png">
 </p>
 </details>
-</div>
 
 </details>
 
