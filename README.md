@@ -75,7 +75,8 @@ We achieve impressive performance on GIQA-DES and GIQA-VQA tasks.
   <img width="900" src="figs/Qualitative-1.png">
 </p>
 
-<details style="margin-left: 20px;">
+<div style="margin-left: 20px;">
+<details>
 <summary>More Results</summary>
 
 - More Results on GIQA-DES (Fig. 6 of the supplementary material)
@@ -90,6 +91,7 @@ We achieve impressive performance on GIQA-DES and GIQA-VQA tasks.
   <img width="900" src="figs/Qualitative-3.png">
 </p>
 </details>
+</div>
 
 </details>
 
