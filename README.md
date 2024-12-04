@@ -3,9 +3,17 @@
 
 [Zheng Chen](https://zhengchen1999.github.io/), [Xun Zhang](https://scholar.google.com.hk/citations?hl=zh-CN&user=xCuW6LcAAAAJ), [Wenbo Li](https://fenglinglwb.github.io/), [Renjing Pei](https://orcid.org/0000-0001-7513-6576), [Fenglong Song](https://scholar.google.com/citations?hl=zh-CN&pli=1&user=WYDVk5oAAAAJ), [Xiongkuo Min](https://minxiongkuo.github.io/), [Xiaohong Liu](https://jhc.sjtu.edu.cn/~xiaohongliu/), [Xin Yuan](https://en.westlake.edu.cn/faculty/xin-yuan.html), [Yong Guo](https://www.guoyongcs.com/), and [Yulun Zhang](http://yulunzhang.com/), "Grounding-IQA: Multimodal Language Grounding Model for Image Quality Assessment", 2024
 
-![Download](https://img.shields.io/github/downloads/zhengchen1999/Grounding-IQA/total?color=green&style=flat)
-![Visitor](https://komarev.com/ghpvc/?username=zhengchen1999&label=visitor&color=blue&style=flat)
-[![GitHub Stars](https://img.shields.io/github/stars/zhengchen1999/Grounding-IQA?style=social)](https://github.com/zhengchen1999/Grounding-IQA/stargazers)
+<div>
+    <a href="https://github.com/zhengchen1999/Grounding-IQA/releases" target='_blank'>
+        <img src="https://img.shields.io/github/downloads/zhengchen1999/Grounding-IQA/total?color=green&style=flat">
+    </a>
+    <a href="https://github.com/zhengchen1999/Grounding-IQA" target='_blank'>
+        <img src="https://visitor-badge.laobi.icu/badge?page_id=zhengchen1999/Grounding-IQA">
+    </a>
+    <a href="https://github.com/zhengchen1999/Grounding-IQA/stargazers" target='_blank'>
+        <img src="https://img.shields.io/github/stars/zhengchen1999/Grounding-IQA?style=social">
+    </a>
+</div>
 
 [[project](https://zhengchen1999.github.io/Grounding-IQA-Web)] [[arXiv](https://arxiv.org/abs/2411.17237)] [[supplementary material](https://github.com/zhengchen1999/Grounding-IQA/releases/download/v1/Supplementary_Material.pdf)] [dataset] [pretrained models]
 
