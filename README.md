@@ -101,7 +101,7 @@ We achieve impressive performance on GIQA-DES and GIQA-VQA tasks.
 
 ## <a name="citation"></a>📎 Citation
 
-If you find the code helpful in your resarch or work, please cite the following paper(s).
+If you find the code helpful in your research or work, please cite the following paper(s).
 
 ```
 @article{chen2024grounding,
