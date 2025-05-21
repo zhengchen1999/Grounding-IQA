@@ -1,0 +1,345 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <!-- Meta tags for social media banners, these should be filled in appropriatly as they are your "business card" -->
+  <!-- Replace the content tag with appropriate information -->
+  <meta name="description" content="DESCRIPTION META TAG">
+  <meta property="og:title" content="SOCIAL MEDIA TITLE TAG"/>
+  <meta property="og:description" content="SOCIAL MEDIA DESCRIPTION TAG TAG"/>
+  <meta property="og:url" content="URL OF THE WEBSITE"/>
+  <!-- Path to banner image, should be in the path listed below. Optimal dimenssions are 1200X630-->
+  <meta property="og:image" content="static/image/your_banner_image.png" />
+  <meta property="og:image:width" content="1200"/>
+  <meta property="og:image:height" content="630"/>
+
+
+  <meta name="twitter:title" content="TWITTER BANNER TITLE META TAG">
+  <meta name="twitter:description" content="TWITTER BANNER DESCRIPTION META TAG">
+  <!-- Path to banner image, should be in the path listed below. Optimal dimenssions are 1200X600-->
+  <meta name="twitter:image" content="static/images/your_twitter_banner_image.png">
+  <meta name="twitter:card" content="summary_large_image">
+  <!-- Keywords for your paper to be indexed by-->
+  <meta name="keywords" content="KEYWORDS SHOULD BE PLACED HERE">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+  <title>BI-DiffSR</title>
+  <link rel="icon" type="image/x-icon" href="static/images/favicon.ico">
+  <link href="https://fonts.googleapis.com/css?family=Google+Sans|Noto+Sans|Castoro"
+  rel="stylesheet">
+
+  <link rel="stylesheet" href="static/css/bulma.min.css">
+  <link rel="stylesheet" href="static/css/bulma-carousel.min.css">
+  <link rel="stylesheet" href="static/css/bulma-slider.min.css">
+  <link rel="stylesheet" href="static/css/fontawesome.all.min.css">
+  <link rel="stylesheet"
+  href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+  <link rel="stylesheet" href="static/css/index.css">
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://documentcloud.adobe.com/view-sdk/main.js"></script>
+  <script defer src="static/js/fontawesome.all.min.js"></script>
+  <script src="static/js/bulma-carousel.min.js"></script>
+  <script src="static/js/bulma-slider.min.js"></script>
+  <script src="static/js/index.js"></script>
+</head>
+<body>
+
+
+  <section class="hero">
+    <div class="hero-body">
+      <div class="container is-max-desktop">
+        <div class="columns is-centered">
+          <div class="column has-text-centered">
+            <h1 class="title is-1 publication-title">Binarized Diffusion Model for Image Super-Resolution</h1>
+            <div class="is-size-5 publication-authors">
+              <!-- Paper authors -->
+              <span class="author-block">
+                <a href="https://zhengchen1999.github.io/" target="_blank">Zheng Chen<sup>1</sup></a>,</span>
+              <span class="author-block">
+                <a href="" target="_blank">Haotong Qin<sup>2</sup></a><sup>*</sup>,</span>
+              <span class="author-block">
+                <a href="https://www.guoyongcs.com/" target="_blank">Yong Guo<sup>3</sup></a>,</span>
+              <span class="author-block">
+                <a href="https://ieeexplore.ieee.org/author/37086348852" target="_blank">Xiongfei Su<sup>4</sup></a>,</span>
+              <span class="author-block">
+                <a href="https://en.westlake.edu.cn/faculty/xin-yuan.html" target="_blank">Xin Yuan<sup>4</sup></a>,</span>
+              <span class="author-block">
+                <a href="https://www.cs.sjtu.edu.cn/~linghe.kong/" target="_blank">Linghe Kong<sup>1</sup></a>,</span>
+              <span class="author-block">
+                <a href="http://yulunzhang.com/" target="_blank">Yulun Zhang<sup>1</sup></a><sup>*</sup></span>
+            </div>
+            
+            <div class="is-size-5 publication-institutions">
+              <!-- Institutions -->
+              <span class="institution-block">
+                <sup>1</sup>Shanghai Jiao Tong University,
+                <sup>2</sup>ETH Zürich,<br>
+                <sup>3</sup>Max Planck Institute for Informatics,
+                <sup>4</sup>Westlake University
+              </span>
+              <span class="coorespond">
+                <small><br><sup>*</sup>Indicates Corresponding Authors</small>
+              </span>
+            </div>
+
+            <hr class="is-divider" style="width: 75%; margin: 1.5rem auto;">
+
+            <div class="is-size-3 publication-details has-text-centered">
+              NeurIPS 2024
+            </div>
+
+            <hr class="is-divider" style="width: 75%; margin: 1.5rem auto;">
+
+            <div class="column has-text-centered">
+              <div class="publication-links">
+                <!-- Paper PDF link -->
+                <span class="link-block">
+                  <a href="https://openreview.net/pdf?id=yXpfrLMIr2" target="_blank"
+                  class="external-link button is-normal is-rounded is-dark">
+                  <span class="icon">
+                    <i class="fas fa-file-pdf"></i>
+                  </span>
+                  <span>Paper</span>
+                  </a>
+                </span>
+            
+                <!-- ArXiv abstract link -->
+                <span class="link-block">
+                  <a href="https://arxiv.org/abs/2406.05723" target="_blank"
+                  class="external-link button is-normal is-rounded is-dark">
+                  <span class="icon">
+                    <i class="ai ai-arxiv"></i>
+                  </span>
+                  <span>arXiv</span>
+                  </a>
+                </span>
+            
+                <!-- Supplementary PDF link -->
+                <span class="link-block">
+                  <a href="https://github.com/zhengchen1999/BI-DiffSR/releases/download/v1/Supplementary_Material.pdf" target="_blank"
+                  class="external-link button is-normal is-rounded is-dark">
+                  <span class="icon">
+                    <i class="fas fa-file-pdf"></i>
+                  </span>
+                  <span>Supplementary</span>
+                  </a>
+                </span>
+            
+                <!-- Github link -->
+                <span class="link-block">
+                  <a href="https://github.com/zhengchen1999/BI-DiffSR" target="_blank"
+                  class="external-link button is-normal is-rounded is-dark">
+                  <span class="icon">
+                    <i class="fab fa-github"></i>
+                  </span>
+                  <span>Code</span>
+                  </a>
+                </span>
+              </div>
+            
+              <div class="publication-links">
+                <!-- Visual Results link -->
+                <span class="link-block">
+                  <a href="https://drive.google.com/drive/folders/1-Mfy8XHG55Bc19gAXqNaNitO0GEx7O1r?usp=drive_link" target="_blank"
+                  class="external-link button is-normal is-rounded is-dark">
+                  <span class="icon">
+                    <i class="fas fa-images"></i>
+                  </span>
+                  <span>Visual Results</span>
+                  </a>
+                </span>
+            
+                <!-- Pretrained Models link -->
+                <span class="link-block">
+                  <a href="https://drive.google.com/drive/folders/1hoHAG2yoLltloQ0SYv-QLxwk9Y8ZnTnH?usp=drive_link" target="_blank"
+                  class="external-link button is-normal is-rounded is-dark">
+                  <span class="icon">
+                    <i class="fas fa-archive"></i>
+                  </span>
+                  <span>Pretrained Models</span>
+                  </a>
+                </span>
+              </div>
+            </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Paper abstract -->
+<section class="section hero is-light">
+  <div class="container is-max-desktop">
+    <div class="columns is-centered has-text-centered">
+      <div class="column is-two-thirds">
+        <h2 class="title is-3">Abstract</h2>
+        <div class="content has-text-justified">
+          <p>
+            Advanced diffusion models (DMs) perform impressively in image super-resolution (SR), but the high memory and computational costs hinder their deployment. Binarization, an ultra-compression algorithm, offers the potential for effectively accelerating DMs. Nonetheless, due to the model structure and the multi-step iterative attribute of DMs, existing binarization methods result in significant performance degradation. In this paper, we introduce a novel binarized diffusion model, BI-DiffSR, for image SR. First, for the model structure, we design a UNet architecture optimized for binarization. We propose the consistent-pixel-downsample (CP-Down) and consistent-pixel-upsample (CP-Up) to maintain dimension consistent and facilitate the full-precision information transfer. Meanwhile, we design the channel-shuffle-fusion (CS-Fusion) to enhance feature fusion in skip connection. Second, for the activation difference across timestep, we design the timestep-aware redistribution (TaR) and activation function (TaA). The TaR and TaA dynamically adjust the distribution of activations based on different timesteps, improving the flexibility and representation alability of the binarized module. Comprehensive experiments demonstrate that our BI-DiffSR outperforms existing binarization methods.
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- End paper abstract -->
+
+<!-- Method Section-->
+<section class="section hero">
+  <div class="container is-max-desktop">
+    <div class="columns is-centered has-text-centered">
+      <div class="column is-five-sixths">
+        <h2 class="title is-3 has-text-left">Method</h2>
+        <figure>
+          <img src="static/images/BI-DiffSR.png" alt="Overview of BI-DiffSR">
+          <figcaption class="title is-5">Overview of BI-DiffSR</figcaption>
+        </figure>
+        <div class="content has-text-justified" style="margin-top: 1rem;">
+          <p>We propose <strong>BI-DiffSR</strong>, a novel binarized model for image super-resolution. Our method employs a <strong>U-Net</strong> architecture optimized for binarization, incorporating consistent-pixel-downsample (<strong>CP-Down</strong>) and upsample (<strong>CP-Up</strong>) modules, along with a channel-shuffle-fusion (<strong>CS-Fusion</strong>) module to enhance information flow. Additionally, we introduce timestep-aware redistribution (<strong>TaR</strong>) and activation function (<strong>TaA</strong>) to adjust the activation distributions across timesteps, enhancing the binarized modules.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- End Method Section-->
+
+<!-- Results Section -->
+<section class="section hero is-small is-light">
+  <div class="hero-body">
+    <div class="container is-max-desktop">
+      <div class="columns is-centered has-text-left">
+        <div class="column is-five-sixths">
+          <h2 class="title is-3">Results</h2>
+          <details>
+            <summary class="title is-5">Quantitative Comparisons (click to expand)</summary>
+            <div class="content">
+              <ul><li class="title is-6">Results in Table 2 (main paper)</li></ul>
+              <p class="has-text-centered">
+                <img src="static/images/T1.png" >
+              </p>
+            </div>
+          </details>
+          <details>
+            <summary class="title is-5">Visual Comparisons (click to expand)</summary>
+            <div class="content">
+              <ul><li class="title is-6">Results in Figure 8 (main paper)</li></ul>
+              <p class="has-text-centered">
+                <img src="static/images/F1.png" >
+              </p>
+              <ul><li class="title is-6">Results in Figure 5 (supplemental material)</li></ul>
+              <p class="has-text-centered">
+                <img src="static/images/F2-1.png" >
+                <img src="static/images/F2-2.png" >
+              </p>
+              <ul><li class="title is-6">Results in Figure 6 (supplemental material)</li></ul>
+              <p class="has-text-centered">
+                <img src="static/images/F3-1.png" >
+                <img src="static/images/F3-2.png" >
+              </p>
+            </div>
+          </details>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- End Results Section -->
+
+<!-- Video Section -->
+<section class="section hero is-small">
+  <div class="container is-max-desktop">
+    <div class="columns is-centered has-text-left">
+      <div class="column is-five-sixths">
+        <h2 class="title is-3">Video</h2>
+        <div id="intro-video" class="video-container">
+          <div class="item item-video-demo">
+            <video poster="" id="demoVideo" controls muted loop width="100%">
+              <!-- Your video file here -->
+              <source src="static/videos/Demo.mp4" type="video/mp4">
+            </video>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- End Video Section -->
+
+<!-- Slide Section -->
+<section class="section hero is-small is-light">
+  <div class="hero-body">
+    <div class="container is-max-desktop">
+      <div class="columns is-centered has-text-left">
+        <div class="column is-five-sixths">
+          <h2 class="title">Slide</h2>
+          <iframe src="static/pdfs/Slide.pdf" width="100%" height="550"></iframe>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- End Slide Section -->
+
+<!-- Poster Section -->
+<section class="section hero is-small">
+  <div class="hero-body">
+    <div class="container is-max-desktop">
+      <div class="columns is-centered has-text-left">
+        <div class="column is-five-sixths">
+          <h2 class="title">Poster</h2>
+          <iframe src="static/pdfs/Poster.pdf" width="100%" height="550"></iframe>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- End Poster Section -->
+
+<!-- BibTeX citation -->
+<section class="section hero is-small is-light">
+  <div class="container is-max-desktop">
+    <div class="columns is-centered has-text-left">
+      <div class="column is-five-sixths">
+        <h2 class="title">BibTeX</h2>
+        <pre style="background-color: #ffffff; overflow-x: auto; white-space: pre-wrap;">
+<code>@inproceedings{chen2024binarized,
+    title={Binarized Diffusion Model for Image Super-Resolution},
+    author={Chen, Zheng and Qin, Haotong and Guo, Yong and Su, Xiongfei and Yuan, Xin and Kong, Linghe and Zhang, Yulun},
+    booktitle={NeurIPS},
+    year={2024}
+}</code></pre>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- End BibTeX citation -->
+
+
+  <footer class="footer">
+  <div class="container">
+    <div class="columns is-centered">
+      <div class="column is-8">
+        <div class="content">
+
+          <p>
+            This page was built using the <a href="https://github.com/eliahuhorwitz/Academic-project-page-template" target="_blank">Academic Project Page Template</a> which was adopted from the <a href="https://nerfies.github.io" target="_blank">Nerfies</a> project page.
+            You are free to borrow the source code of this website, we just ask that you link back to this page in the footer. <br> This website is licensed under a <a rel="license"  href="http://creativecommons.org/licenses/by-sa/4.0/" target="_blank">Creative
+            Commons Attribution-ShareAlike 4.0 International License</a>.
+          </p>
+
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+
+<!-- Statcounter tracking code -->
+  
+<!-- You can add a tracker to track page visits by creating an account at statcounter.com -->
+
+    <!-- End of Statcounter Code -->
+
+  </body>
+  </html>
