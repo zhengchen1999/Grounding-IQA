@@ -1,6 +1,6 @@
 # Project: Grounding-IQA
 
-https://zhengchen1999.github.io/Grounding-IQA-Web
+https://zhengchen1999.github.io/Grounding-IQA
 
 
 
