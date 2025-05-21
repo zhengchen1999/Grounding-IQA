@@ -1,5 +1,5 @@
 # Project: BI-DiffSR
-https://zhengchen1999.github.io/BI-DiffSR-Web
+https://zhengchen1999.github.io/BI-DiffSR
 
 
 
